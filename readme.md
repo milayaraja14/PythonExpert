@@ -1,21 +1,18 @@
 <div align="center">
-  <h1> 🐍 30 Days Of Python</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/company/ai-for-techies">
+  <h1> 30 Days Of Python</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/ilayaraja1/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
 
   <sub>Author:
-  <a href="https://www.linkedin.com/company/ai-for-techies" target="_blank">AI For Techies</a><br>
+  <a href="https://www.linkedin.com/in/ilayaraja1/" target="_blank">Ilayaraja M</a><br>
   </sub>
 </div>
 <div align="center">
-<img width="7000" height="300" alt="Python Banner" src="https://github.com/user-attachments/assets/42f0a62a-f4ed-4b02-922c-91e36cc4b149"/>
 </div>
 
 # 📘 Day 1: Introduction to Python
 
 **Welcome to Day 1** of your _30 Days of Python journey!_ Today, we are laying the foundation for your programming career. Python is one of the most popular, versatile, and beginner-friendly languages in the world. Its syntax is designed to be readable, almost like English, making it the perfect starting point for any aspiring developer.
-
-To get regular **AI & Tech** updates — stay ahead with the **latest tools, trends, and insights!** 🚀, you may join the [AI For Techies Channel](https://whatsapp.com/channel/0029VbBfR3TCRs1wxJSjOE2z)
 
 ## Key Concepts
 
